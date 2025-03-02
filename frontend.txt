@@ -4,8 +4,10 @@ JavaScript
 
 Tailwind CSS
 -mini project
+-bikin landing page
 
 ReactJS
 -Project
+-e commers
 
 Ikut BootCamp
